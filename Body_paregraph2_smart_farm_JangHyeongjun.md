@@ -71,7 +71,7 @@
     [출처: 스마트팜수출연구사업단 :  「지능형 스마트팜 플랫폼 수출연구사업단 동향보고서」(2021)]
 
 - [농림축산식품부 정책홍보, 스마트농업 국내·외 시장 현황 (Marketsandmarkets, 2020)](https://www.mafra.go.kr/home/5281/subview.do)
-- [Smart Agriculture Market Size, Marketandmarkets(2023), (자료요청 후 대기 중)]()
+- [Smart Agriculture Market Size, Marketandmarkets(2023), (자료요청 후 대기 중)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjfqfbjsYSFAxWr5RYFHcy-BkwYABACGgJ0bA&ase=2&gclid=CjwKCAjwkuqvBhAQEiwA65XxQApZ_RjLxlsKfdKuglz_WTrnIjGGbDxEya5YC0c6ce9LFxKMIAxGRBoCO-oQAvD_BwE&ohost=www.google.com&cid=CAESV-D2m98FNxf8DzUmoPCg73k0Wz03Y7AafJufKSKJW0Daqi6VplJy0sYjsDEnbVRaH4HZymRXZGbX00Vwd4V4HS7MJhb2WKIgwJTBRCuu_TcK_UFeUvt9Fg&sig=AOD64_0TGHRKht0vbqhTBFVzepfWoR0shw&q&nis=4&adurl&ved=2ahUKEwiPiu3jsYSFAxUQjVYBHQVJDw8Q0Qx6BAgGEAE)
 
 
 
